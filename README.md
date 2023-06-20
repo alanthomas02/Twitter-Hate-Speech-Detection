@@ -1,1 +1,1 @@
-# Twitter-Hate-Speech-Detection
+This repository contains a Twitter Hate Speech Detection System built using decision tree and logistic regression machine learning algorithms. The system aims to classify tweets into categories of hate speech, offensive language, or non-offensive language
